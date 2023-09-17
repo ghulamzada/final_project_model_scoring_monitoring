@@ -1,0 +1,1 @@
+*/10 * * * * /Users/my-user/opt/anaconda3/envs/final-project/bin/python3 /Users/my-user/Model_Scoring_and_Monitoring/fullprocess.py
